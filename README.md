@@ -7,5 +7,5 @@ I'll host the code [here, on GitHub](https://github.com/jeffwade/nightmusings) a
 [there, on Instagram](https://www.instagram.com/jeffwa.de).
 
 ## The Sketches
-1. Cat's Cradle ([code](https://github.com/jeffwade/nightmusings/cats_cradle/))
+1. Cat's Cradle ([code](https://github.com/jeffwade/nightmusings/tree/master/cats_cradle/))
    ([video](https://www.instagram.com/p/CAW1Fo2hr0S/))
