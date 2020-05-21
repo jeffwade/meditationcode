@@ -1,11 +1,11 @@
-# Night Musings
+# Meditation:code
 
 ## The Premise
-A collection of after-hours, digital sketches.
+A collection of meditations in code
 
-I'll host the code [here, on GitHub](https://github.com/jeffwade/nightmusings) and post recordings
-[there, on Instagram](https://www.instagram.com/jeffwa.de).
+I'll host the code [here, on GitHub](https://github.com/jeffwade/meditationcode) and post recordings
+[there, on Instagram](https://www.instagram.com/meditationcode).
 
 ## The Sketches
-1. Cat's Cradle ([code](https://github.com/jeffwade/nightmusings/tree/master/cats_cradle/))
-   ([video](https://www.instagram.com/p/CAW1Fo2hr0S/))
+1. Cat's Cradle ([code](https://github.com/jeffwade/meditationcode/tree/master/cats_cradle/))
+   ([video](https://www.instagram.com/p/CAdn-PiJmvt/)
